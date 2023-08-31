@@ -1,0 +1,44 @@
+header {width: 350px; 
+    height: 200px;
+background-color: rgb(56, 56, 209);
+margin-right: auto;
+margin-left: auto;
+padding: 5%;}
+
+header h1 {text-align: center; color: white; size: 8px;}
+.navbar li {list-style-type: none;color: white; text-align: center;}
+main {margin-left: 5%; margin-right: 5%;
+border: solid 2px darkgray;
+padding: 5%;
+width: 350 px;
+}
+
+body{background-image: url(C:\Users\timai\OneDrive\Desktop\EPICODE\U1-W1-L4\assets\img\sfondo.png);}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.news {width: 300px; 
+    height: 200px;
+background-color: rgb(183, 183, 189);
+margin-right: auto;
+margin-left: auto;
+padding: 5%;
+}
+.news h1 {text-align: center;}
+.news button {color: rgb(243, 243, 247);
+background-color: blue;}
+
+.table th {background-color: rgb(9, 9, 243);
+color: aliceblue;}
+
+.articolo1,.articolo2,.articolo3 {background-color: rgb(167, 165, 165); padding: 5%;
+margin: 5px;}
+
+.correlati h1{font-size: 16px;
+text-align: center; padding: 10%;}
+.correlati{line-height: 1px;}
+
+footer{background-color: rgb(33, 115, 126); padding: 5%;
+    margin: 5px;}
